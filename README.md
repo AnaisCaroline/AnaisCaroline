@@ -31,5 +31,5 @@ Welcome to my GitHub profile! I'm passionate about tech, creativity, and buildin
 ---
 
 ### **✨ Featured Projects**
-- 🎶 [Mood-Based YouTube Music Playlist Script](https://github.com/AnaisCaroline/mood-playlist)  
+- 🎶 [Mood-Based YouTube Music Playlist Script](https://github.com/AnaisCaroline/mood_playlist)  
 - 🏦 [Budget Tracker App](https://github.com/AnaisCaroline/budget-tracker)  
